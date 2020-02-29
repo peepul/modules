@@ -1,0 +1,3 @@
+server:
+  name: base-service
+  port: 8090
